@@ -1,7 +1,7 @@
 # 🟡 Pacman PYGames
 
 <p align="center">
-  <img src="pacmanlvl1.jpg" width="500" alt="Pacman Gameplay"/>
+  <img src="https://github.com/SnoWz96x/PacMan/blob/main/pacman-removebg-preview.png" width="500" alt="Pacman Gameplay"/>
 </p>
 
 <p align="center">
